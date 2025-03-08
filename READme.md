@@ -23,10 +23,10 @@ Advanced Buffer Checker is a powerful Python-based tool that helps users analyze
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/advanced-buffer-checker.git
+   https://github.com/samiXploits/web_buffer_checker.git
    cd advanced-buffer-checker
    ```
-2. Open `buffer_checker.py` and replace `WHOIS_API_KEY` with your actual API key:
+2. Obtain an API key from [WhoisXML API](https://www.whoisxmlapi.com/) and replace `WHOIS_API_KEY` in `buffer_checker.py` with your actual API key:
    ```python
    WHOIS_API_KEY = "your_api_key_here"
    ```
@@ -57,3 +57,4 @@ This tool is intended for educational and research purposes only. Unauthorized u
 
 ## Author
 Created by Mr. Sami 🚀
+
